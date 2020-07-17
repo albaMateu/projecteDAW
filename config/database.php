@@ -1,5 +1,5 @@
 <?php
-//configuració de la base de dades
+//configuració de la base de dades 
 class Config {
 
     public static function dataDB() {
